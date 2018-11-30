@@ -1,0 +1,24 @@
+C:\Users\mm_newpc\Documents\Visual Studio 2008\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe
+C:\Users\mm_newpc\Documents\Visual Studio 2008\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.pdb
+C:\Users\mm_newpc\Documents\Visual Studio 2008\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mm_newpc\Documents\Visual Studio 2008\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Form1.resources
+C:\Users\mm_newpc\Documents\Visual Studio 2008\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Properties.Resources.resources
+C:\Users\mm_newpc\Documents\Visual Studio 2008\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.GenerateResource.Cache
+C:\Users\mm_newpc\Documents\Visual Studio 2008\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.exe
+C:\Users\mm_newpc\Documents\Visual Studio 2008\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.pdb
+E:\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.exe
+E:\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.pdb
+E:\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe
+E:\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.pdb
+E:\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Form1.resources
+E:\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Properties.Resources.resources
+E:\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.GenerateResource.Cache
+E:\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csprojResolveAssemblyReference.cache
+E:\Progeramming Langs_Files\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.exe
+E:\Progeramming Langs_Files\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.pdb
+E:\Progeramming Langs_Files\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe
+E:\Progeramming Langs_Files\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.pdb
+E:\Progeramming Langs_Files\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csprojResolveAssemblyReference.cache
+E:\Progeramming Langs_Files\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Form1.resources
+E:\Progeramming Langs_Files\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Properties.Resources.resources
+E:\Progeramming Langs_Files\زبان های برنامه نویسی\C#\بازی OX\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.GenerateResource.Cache
